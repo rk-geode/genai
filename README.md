@@ -17,3 +17,12 @@ This for sample python program for MCQ generator
 4. To check the packages are installed
 
 > pip list
+
+5. Git commands
+> git add .
+> git status
+> git config --global user.email "you@example.com"
+> git config --global user.name "Your Name"
+> git commit -m "message"
+> git remote add origin repository-url
+> git push -f origin main
